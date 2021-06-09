@@ -1,0 +1,15 @@
+﻿  UnitTest3.cpp
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\Lab3\List.h(175,28): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\Lab3\List.h(173): message : во время компиляции функции-члена класс шаблон "const T List<T>::operator [](const int) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\UnitTest3\UnitTest3.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "const T List<T>::operator [](const int) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\UnitTest3\UnitTest3.cpp(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+     Создается библиотека C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\Lab3\Debug\UnitTest3.lib и объект C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\Lab3\Debug\UnitTest3.exp
+  UnitTest3.vcxproj -> C:\Users\hispe\Workspace\C++\4 sem aisd\Lab3\Lab3\Debug\UnitTest3.dll
